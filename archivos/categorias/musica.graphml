@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="frase5" attr.type="string"/>
+<key id="d10" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d9" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d8" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d7" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="musica"/>
+<node id="esquife">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Enraizada en el skiffle, la música beat y el rock and roll de los años 1950, su sonido incorporaría a menudo elementos de la música clásica y del pop tradicional, entre otros, de forma innovadora en sus</data>
+  <data key="d2">un final infructuoso para una lucha o competencia</data>
+  <data key="d3">Enraizada en el skiffle, la música beat y el rock and roll de los años 1950, su sonido incorporaría a menudo elementos de la música clásica y del pop tradicional, entre otros, de forma innovadora en sus</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="derrotar">
+  <data key="d5">Enraizada en el skiffle, la música beat y el rock and roll de los años 1950, su sonido incorporaría a menudo elementos de la música clásica y del pop tradicional, entre otros, de forma innovadora en sus</data>
+  <data key="d6">un final infructuoso para una lucha o competencia</data>
+</node>
+<node id="roca"/>
+<node id="rollo"/>
+<node id="sonido"/>
+<node id="elementos"/>
+<node id="musica pop"/>
+<node id="otros"/>
+<node id="formas"/>
+<node id="navidad">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">en Navidad se cantan villancicos</data>
+  <data key="d2">Christmas carols</data>
+  <data key="d3">en Navidad se cantan villancicos</data>
+  <data key="d7">Christmas la Navidad</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="regalos">
+  <data key="d5">en Navidad se canta y se hacen regalos</data>
+  <data key="d6">algo adquirido sin compensación</data>
+</node>
+<node id="villancicos">
+  <data key="d5">en Navidad se cantan villancicos</data>
+  <data key="d6">Christmas carols</data>
+</node>
+<node id="cancion">
+  <data key="d4">Me gustaria cantar</data>
+</node>
+<node id="cantante"/>
+<node id="grupo"/>
+<node id="melodia"/>
+<node id="radio"/>
+<edge source="musica" target="esquife">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="musica" target="derrotar">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="musica" target="navidad">
+  <data key="d8">2</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="musica" target="regalos">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="musica" target="villancicos">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="musica" target="cancion">
+  <data key="d8">0</data>
+  <data key="d9">Me gustaria saber cantar</data>
+  <data key="d10">Me gusta la musica</data>
+</edge>
+<edge source="musica" target="cantante">
+  <data key="d8">0</data>
+</edge>
+<edge source="esquife" target="derrotar">
+  <data key="d8">0</data>
+</edge>
+<edge source="esquife" target="musica">
+  <data key="d8">0</data>
+</edge>
+<edge source="navidad" target="regalos">
+  <data key="d8">0</data>
+</edge>
+<edge source="navidad" target="villancicos">
+  <data key="d8">0</data>
+</edge>
+<edge source="cancion" target="cantante">
+  <data key="d8">0</data>
+  <data key="d11">Me gustaria cantar</data>
+</edge>
+<edge source="cancion" target="grupo">
+  <data key="d8">0</data>
+  <data key="d11">Me gustaria pertenecer a un grupo de musica</data>
+</edge>
+<edge source="cancion" target="melodia">
+  <data key="d8">0</data>
+  <data key="d11">Me gustaria cantar</data>
+</edge>
+<edge source="cancion" target="radio">
+  <data key="d8">0</data>
+</edge>
+<edge source="cantante" target="grupo">
+  <data key="d8">0</data>
+  <data key="d11">Me gustaria pertenecer a un grupo de musica</data>
+</edge>
+</graph></graphml>

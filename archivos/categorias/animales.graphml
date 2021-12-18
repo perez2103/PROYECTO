@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="frase5" attr.type="string"/>
+<key id="d10" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d9" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d8" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d7" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="animales"/>
+<node id="calamar">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">te gusta el calamar</data>
+  <data key="d2">un organismo vivo caracterizado por el movimiento voluntario</data>
+  <data key="d3">te gusta el calamar</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="mariscos">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">me gusta el marisco pero es muy caro</data>
+  <data key="d2">un organismo vivo caracterizado por el movimiento voluntario</data>
+  <data key="d3">me gusta el marisco pero es muy caro</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="gato">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he sacado a mi gato Lucas a pasear</data>
+  <data key="d2">(Nuevo Testamento) el Apóstol estrechamente asociado con San Pablo y tradicionalmente asumido como el autor del tercer Evangelio.</data>
+  <data key="d3">he sacado a mi gato Lucas a pasear</data>
+  <data key="d5">Lucas mi gato</data>
+  <data key="d6">he sacado a pasear a mi tortuga y a mi gato</data>
+  <data key="d7">Mamífero felino que generalmente tiene un pelaje grueso y suave y no tiene capacidad para rugir: gatos domésticos; </data>
+</node>
+<node id="lucas">
+  <data key="d6">he sacado a mi gato Lucas a pasear</data>
+  <data key="d7">(Nuevo Testamento) el Apóstol estrechamente asociado con San Pablo y tradicionalmente asumido como el autor del tercer Evangelio.</data>
+</node>
+<node id="andar"/>
+<node id="cabra">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he dado de comer a mi cabra</data>
+  <data key="d2">un organismo vivo caracterizado por el movimiento voluntario</data>
+  <data key="d3">he dado de comer a mi cabra</data>
+  <data key="d5">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="tortuga">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he salido con mi tortuga y con Luis a pasear</data>
+  <data key="d2">Cantante y pianista estrella de rock estadounidense (nacido en 1935)</data>
+  <data key="d3">he salido con mi tortuga y con Luis a pasear</data>
+  <data key="d5">Luis un buen amigo</data>
+  <data key="d6">he salido con mi perro y mi tortuga a pasear</data>
+  <data key="d7">un suéter o jersey con cuello alto ajustado</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="perro">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he salido con mi perro Tom a pasear</data>
+  <data key="d2">(insulto étnico) nombre ofensivo y despectivo para un hombre negro que es abyectamente servil y deferente con los blancos</data>
+  <data key="d3">he salido con mi perro Tom a pasear</data>
+  <data key="d5">Lussy mi asistente</data>
+  <data key="d4">Me gusta mi perro Tom</data>
+</node>
+<node id="luis">
+  <data key="d6">he salido con mi tortuga y con Luis a pasear</data>
+  <data key="d7">Cantante y pianista estrella de rock estadounidense (nacido en 1935)</data>
+</node>
+<node id="tom">
+  <data key="d6">he salido con mi perro Tom a pasear</data>
+  <data key="d7">(insulto étnico) nombre ofensivo y despectivo para un hombre negro que es abyectamente servil y deferente con los blancos</data>
+</node>
+<node id="Tom"/>
+<node id="Luis"/>
+<node id="Lucas"/>
+<node id="rabioso"/>
+<node id="manso"/>
+<node id="Lussy">
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<edge source="animales" target="calamar">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="animales" target="mariscos">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="animales" target="gato">
+  <data key="d8">1</data>
+  <data key="d9">he sacado a mi gato Lucas a pasear</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="animales" target="lucas">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="animales" target="cabra">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="animales" target="tortuga">
+  <data key="d8">2</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="animales" target="perro">
+  <data key="d8">3</data>
+  <data key="d9">me gustan mucho los perros</data>
+</edge>
+<edge source="animales" target="luis">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="animales" target="tom">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="animales" target="Tom">
+  <data key="d8">0</data>
+  <data key="d10">mi perro se llama Tom</data>
+</edge>
+<edge source="animales" target="Lussy">
+  <data key="d8">0</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="gato" target="lucas">
+  <data key="d8">0</data>
+</edge>
+<edge source="gato" target="andar">
+  <data key="d8">0</data>
+</edge>
+<edge source="tortuga" target="gato">
+  <data key="d8">0</data>
+</edge>
+<edge source="tortuga" target="andar">
+  <data key="d8">0</data>
+</edge>
+<edge source="tortuga" target="luis">
+  <data key="d8">0</data>
+</edge>
+<edge source="perro" target="tortuga">
+  <data key="d8">0</data>
+</edge>
+<edge source="perro" target="andar">
+  <data key="d8">0</data>
+</edge>
+<edge source="perro" target="tom">
+  <data key="d8">0</data>
+</edge>
+<edge source="perro" target="Tom">
+  <data key="d8">0</data>
+  <data key="d11">me gusta mi perro Tom</data>
+</edge>
+<edge source="perro" target="Luis">
+  <data key="d8">0</data>
+  <data key="d11">me gusta mi perro Tom</data>
+</edge>
+<edge source="perro" target="Lucas">
+  <data key="d8">0</data>
+  <data key="d11">me gusta mi perro Tom</data>
+</edge>
+<edge source="Tom" target="rabioso">
+  <data key="d8">-1</data>
+</edge>
+<edge source="Tom" target="Luis">
+  <data key="d8">0</data>
+  <data key="d11">me gusta mi perro Tom</data>
+</edge>
+<edge source="Luis" target="rabioso">
+  <data key="d8">-1</data>
+</edge>
+<edge source="Luis" target="Lucas">
+  <data key="d8">0</data>
+  <data key="d11">me gusta mi perro Tom</data>
+</edge>
+<edge source="Lucas" target="manso">
+  <data key="d8">-4</data>
+</edge>
+</graph></graphml>

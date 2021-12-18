@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="frase5" attr.type="string"/>
+<key id="d10" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d9" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d8" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d7" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="deportes"/>
+<node id="domingo">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">me gusta el domingo es un buen dia para hacer deporte</data>
+  <data key="d2">tiempo para que la Tierra haga una rotación completa sobre su eje</data>
+  <data key="d3">me gusta el domingo es un buen dia para hacer deporte</data>
+  <data key="d4">Sunday domingo</data>
+  <data key="d5">Lo que dices parece muy interesante</data>
+</node>
+<node id="dia">
+  <data key="d6">me gusta el domingo es un buen dia para hacer deporte</data>
+  <data key="d7">tiempo para que la Tierra haga una rotación completa sobre su eje</data>
+</node>
+<node id="futbol">
+  <data key="d5">Me gusta el futbol</data>
+</node>
+<node id="jugador"/>
+<node id="porteria"/>
+<node id="arbitro"/>
+<node id="equipo"/>
+<edge source="deportes" target="domingo">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="deportes" target="dia">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="deportes" target="futbol">
+  <data key="d8">0</data>
+  <data key="d9">Me gusta el futbol</data>
+  <data key="d10">Me gusta el futbol</data>
+</edge>
+<edge source="deportes" target="arbitro">
+  <data key="d8">0</data>
+</edge>
+<edge source="domingo" target="dia">
+  <data key="d8">0</data>
+</edge>
+<edge source="domingo" target="deportes">
+  <data key="d8">0</data>
+</edge>
+<edge source="futbol" target="jugador">
+  <data key="d8">0</data>
+  <data key="d11">Me gusta el futbol</data>
+</edge>
+<edge source="futbol" target="porteria">
+  <data key="d8">0</data>
+  <data key="d11">El jugador metio un gol</data>
+</edge>
+<edge source="futbol" target="arbitro">
+  <data key="d8">0</data>
+</edge>
+<edge source="futbol" target="equipo">
+  <data key="d8">0</data>
+  <data key="d11">El mejor equipo ganara el partido</data>
+</edge>
+<edge source="jugador" target="porteria">
+  <data key="d8">0</data>
+  <data key="d11">Me gusta el futbol</data>
+</edge>
+</graph></graphml>

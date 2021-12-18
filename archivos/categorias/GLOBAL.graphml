@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="frase5" attr.type="string"/>
+<key id="d8" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d7" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d5" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="administracion"/>
+<node id="banco">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he ido al banco y despues de compras</data>
+  <data key="d2">un método para atender o gestionar los asuntos de un grupo de personas (especialmente los asuntos comerciales del grupo)</data>
+  <data key="d3">he ido al banco y despues de compras</data>
+  <data key="d4">Lussy mi asistente</data>
+  <data key="d5">Lo que dices parece muy interesante</data>
+</node>
+<node id="oficina">
+  <data key="d5">Me gustaria ir a la oficina</data>
+</node>
+<node id="archivo"/>
+<node id="papeles"/>
+<node id="informe"/>
+<node id="boligrafo"/>
+<node id="Lussy">
+  <data key="d5">Lo que dices parece muy interesante</data>
+</node>
+<edge source="administracion" target="banco">
+  <data key="d6">1</data>
+  <data key="d7">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="administracion" target="oficina">
+  <data key="d6">0</data>
+  <data key="d7">Me gustaria ir a la oficina</data>
+  <data key="d8">Me gustaria ir a la oficina</data>
+</edge>
+<edge source="administracion" target="archivo">
+  <data key="d6">0</data>
+</edge>
+<edge source="administracion" target="Lussy">
+  <data key="d6">0</data>
+  <data key="d7">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="oficina" target="archivo">
+  <data key="d6">0</data>
+  <data key="d9">Me gustaria ir a la oficina</data>
+</edge>
+<edge source="oficina" target="papeles">
+  <data key="d6">0</data>
+  <data key="d9">En la oficina hay muchos papeles</data>
+</edge>
+<edge source="oficina" target="informe">
+  <data key="d6">0</data>
+  <data key="d9">Estoy trabajando en un informe</data>
+</edge>
+<edge source="oficina" target="boligrafo">
+  <data key="d6">0</data>
+</edge>
+<edge source="archivo" target="papeles">
+  <data key="d6">0</data>
+  <data key="d9">Los papeles estan encima del archivo</data>
+</edge>
+</graph></graphml>

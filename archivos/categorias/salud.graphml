@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="frase5" attr.type="string"/>
+<key id="d10" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d9" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d8" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d7" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="salud"/>
+<node id="Lussy">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">tienes hambre</data>
+  <data key="d2">un estado de bienestar saludable libre de enfermedades</data>
+  <data key="d3">tienes hambre</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="comparar">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Compárese en este respecto el Prometeo encadenado de Esquilo con &#13;
+la Antígona de Sófocles, y se verá la nueva ruta que estos saberes &#13;
+técnicos van a obligar a emprender al pensamiento ateniense.</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="el respeto">
+  <data key="d5">Compárese en este respecto el Prometeo encadenado de Esquilo con &#13;
+la Antígona de Sófocles, y se verá la nueva ruta que estos saberes &#13;
+técnicos van a obligar a emprender al pensamiento ateniense.</data>
+</node>
+<node id="esquilo"/>
+<node id="encadenado"/>
+<node id="prometeo"/>
+<node id="vida">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">la vida es bella</data>
+  <data key="d2">un estado de bienestar saludable libre de enfermedades</data>
+  <data key="d3">la vida es bella</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="cielo">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">el cielo esta nublado es posible que llueva</data>
+  <data key="d2">un estado de bienestar saludable libre de enfermedades</data>
+  <data key="d3">el cielo esta nublado es posible que llueva</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="formas">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Y ello, en varios sentidos: primeramente, &#13;
+porque sí así fuera, no sería explicable que la filosofía no hubiera &#13;
+existido plena y formal en todos los ángulos del planeta, desde que la &#13;
+humanidad existe; en segundo lugar, porque la filosofía muestra un elenco &#13;
+variable de problemas y de conceptos; finalmente, y, sobre todo, porque la &#13;
+posición misma de la filosofía dentro del espíritu humano ha sufrido &#13;
+sensibles oscilaciones.</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="andar">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he salido a dar un paseo por la playa</data>
+  <data key="d2">un área de arena que desciende hasta el agua de un mar o lago</data>
+  <data key="d3">he salido a dar un paseo por la playa</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="playa">
+  <data key="d5">he salido a dar un paseo por la playa</data>
+  <data key="d6">un área de arena que desciende hasta el agua de un mar o lago</data>
+</node>
+<node id="hoy dia">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">hoy he estado limpiando la casa</data>
+  <data key="d2">donde vives en un momento particular</data>
+  <data key="d3">hoy he estado limpiando la casa</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="casa">
+  <data key="d5">hoy he estado limpiando la casa</data>
+  <data key="d6">donde vives en un momento particular</data>
+</node>
+<node id="farmacia">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he ido a la farmacia a comprar medicamentos</data>
+  <data key="d2">las ramas de la ciencia médica que se ocupan de las técnicas no quirúrgicas</data>
+  <data key="d3">he ido a la farmacia a comprar medicamentos</data>
+  <data key="d5">el doctor dijo que fuera a la farmacia</data>
+  <data key="d6">el arte y la ciencia de preparar y dispensar fármacos y medicinas,</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="medicamentos">
+  <data key="d5">he ido a la farmacia a comprar medicamentos</data>
+  <data key="d6">las ramas de la ciencia médica que se ocupan de las técnicas no quirúrgicas</data>
+</node>
+<node id="doctor">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">tengo que ir al doctor para que me de medicamentos</data>
+  <data key="d2">un estado de bienestar saludable libre de enfermedades</data>
+  <data key="d3">tengo que ir al doctor para que me de medicamentos</data>
+  <data key="d5">quiero ir al oculista y que me de medicamentos</data>
+  <data key="d6">un médico con licencia</data>
+</node>
+<node id="ojo">
+  <data key="d5">voy a doctor a que me revise el ojo</data>
+  <data key="d6">el órgano de la vista</data>
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">quiero ir al oculista y que me de medicamentos</data>
+  <data key="d2">un médico con licencia</data>
+  <data key="d3">quiero ir al oculista y que me de medicamentos</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="tiempo">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">es hora de irme a comer</data>
+  <data key="d2">tomar alimentos sólidos</data>
+  <data key="d3">es hora de irme a comer</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="come">
+  <data key="d5">es hora de irme a comer</data>
+  <data key="d6">tomar alimentos sólidos</data>
+</node>
+<node id="hospital">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">tengo que ir al hospital a hacerme un analisis de sangre</data>
+  <data key="d2">el líquido (rojo en los vertebrados) que el corazón bombea a través del cuerpo y que contiene plasma, glóbulos y plaquetas</data>
+  <data key="d3">tengo que ir al hospital a hacerme un analisis de sangre</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="sangre">
+  <data key="d5">tengo que ir al hospital a hacerme un analisis de sangre</data>
+  <data key="d6">el líquido (rojo en los vertebrados) que el corazón bombea a través del cuerpo y que contiene plasma, glóbulos y plaquetas</data>
+</node>
+<node id="prueba"/>
+<node id="lussy">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">lussy puedes ayudarme. No recuerdo donde he dejado los papeles</data>
+  <data key="d2">un estado de bienestar saludable libre de enfermedades</data>
+  <data key="d3">lussy puedes ayudarme. No recuerdo donde he dejado los papeles</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="ambulancia">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">la ambulancia llevo al enfermo al hospital</data>
+  <data key="d2">una persona que requiere atención médica</data>
+  <data key="d3">la ambulancia llevo al enfermo al hospital</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="persona">
+  <data key="d5">donde llevo la ambulancia al enfermo</data>
+  <data key="d6">un ser humano</data>
+</node>
+<node id="paciente">
+  <data key="d5">la ambulancia llevo al enfermo al hospital</data>
+  <data key="d6">una persona que requiere atención médica</data>
+</node>
+<node id="medico">
+  <data key="d4">El medico curó al enfermo</data>
+</node>
+<node id="enfermera"/>
+<node id="enfermo"/>
+<edge source="salud" target="Lussy">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="comparar">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="el respeto">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="vida">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="cielo">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="formas">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="andar">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="playa">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="hoy dia">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="casa">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="farmacia">
+  <data key="d8">2</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="medicamentos">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="doctor">
+  <data key="d8">2</data>
+  <data key="d9">tengo que ir al doctor para que me de medicamentos</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="ojo">
+  <data key="d8">1</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="tiempo">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="come">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="hospital">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="sangre">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="lussy">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="ambulancia">
+  <data key="d8">2</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="salud" target="persona">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="paciente">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="salud" target="medico">
+  <data key="d8">0</data>
+  <data key="d9">El medico curó al enfermo</data>
+  <data key="d10">El medico curó al paciente</data>
+</edge>
+<edge source="comparar" target="el respeto">
+  <data key="d8">0</data>
+</edge>
+<edge source="comparar" target="esquilo">
+  <data key="d8">0</data>
+</edge>
+<edge source="andar" target="playa">
+  <data key="d8">0</data>
+</edge>
+<edge source="hoy dia" target="casa">
+  <data key="d8">0</data>
+</edge>
+<edge source="farmacia" target="medicamentos">
+  <data key="d8">0</data>
+</edge>
+<edge source="doctor" target="farmacia">
+  <data key="d8">0</data>
+</edge>
+<edge source="doctor" target="ojo">
+  <data key="d8">0</data>
+</edge>
+<edge source="ojo" target="doctor">
+  <data key="d8">0</data>
+</edge>
+<edge source="tiempo" target="come">
+  <data key="d8">0</data>
+</edge>
+<edge source="hospital" target="sangre">
+  <data key="d8">0</data>
+</edge>
+<edge source="hospital" target="prueba">
+  <data key="d8">0</data>
+</edge>
+<edge source="ambulancia" target="persona">
+  <data key="d8">0</data>
+</edge>
+<edge source="ambulancia" target="paciente">
+  <data key="d8">0</data>
+</edge>
+<edge source="ambulancia" target="hospital">
+  <data key="d8">0</data>
+</edge>
+<edge source="paciente" target="hospital">
+  <data key="d8">0</data>
+  <data key="d11">El paciente fue al hospital</data>
+</edge>
+<edge source="medico" target="paciente">
+  <data key="d8">0</data>
+  <data key="d11">El medico visito al paciente</data>
+</edge>
+<edge source="medico" target="hospital">
+  <data key="d8">0</data>
+  <data key="d11">El medico dijo que el paciente debia ser ingresado en el hospital</data>
+</edge>
+<edge source="medico" target="enfermera">
+  <data key="d8">0</data>
+  <data key="d11">La enfermera ayudo al medico a curar al paciente</data>
+</edge>
+<edge source="medico" target="enfermo">
+  <data key="d8">0</data>
+</edge>
+</graph></graphml>

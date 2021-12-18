@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d10" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d9" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d8" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d7" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="negocio"/>
+<node id="lugar">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Pudiera ponerse en su lugar "acontecer", &#13;
+en el sentido de ser algo que tiene realidad.</data>
+  <data key="d2">una empresa comercial o industrial y las personas que la constituyen</data>
+  <data key="d3">Pudiera ponerse en su lugar "acontecer", &#13;
+en el sentido de ser algo que tiene realidad.</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="despues">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Después, todos sus</data>
+  <data key="d2">una empresa comercial o industrial y las personas que la constituyen</data>
+  <data key="d3">Después, todos sus</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="proyecto">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he estado trabando en mi proyecto y me han traido un regalo</data>
+  <data key="d2">el período de tiempo que está sucediendo ahora; </data>
+  <data key="d3">he estado trabando en mi proyecto y me han traido un regalo</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="regalo">
+  <data key="d5">he estado trabando en mi proyecto y me han traido un regalo</data>
+  <data key="d6">el período de tiempo que está sucediendo ahora; </data>
+</node>
+<node id="oficina">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he ido a la oficina y he terminado un trabajo</data>
+  <data key="d2">la actividad principal en tu vida que haces para ganar dinero</data>
+  <data key="d3">he ido a la oficina y he terminado un trabajo</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="trabajo">
+  <data key="d5">he ido a la oficina y he terminado un trabajo</data>
+  <data key="d6">la actividad principal en tu vida que haces para ganar dinero</data>
+</node>
+<node id="compra">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he hecho la compra en el supermercado</data>
+  <data key="d2">una gran tienda de autoservicio que vende comestibles y productos lácteos y artículos para el hogar</data>
+  <data key="d3">he hecho la compra en el supermercado</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="supermercado">
+  <data key="d5">he hecho la compra en el supermercado</data>
+  <data key="d6">una gran tienda de autoservicio que vende comestibles y productos lácteos y artículos para el hogar</data>
+</node>
+<node id="documentos">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he firmado unos papeles</data>
+  <data key="d2">una empresa comercial o industrial y las personas que la constituyen</data>
+  <data key="d3">he firmado unos papeles</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="lapiz">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he dejado mi boligrafo encima de la mesa</data>
+  <data key="d2">un mueble con una superficie para escribir y generalmente cajones u otros compartimentos</data>
+  <data key="d3">he dejado mi boligrafo encima de la mesa</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="mesa">
+  <data key="d5">he dejado el reloj encima de la mesa</data>
+  <data key="d6">un mueble con una superficie para escribir y generalmente cajones u otros compartimentos</data>
+</node>
+<node id="presentacion"/>
+<node id="gabinete"/>
+<node id="reloj">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he dejado el reloj encima de la mesa</data>
+  <data key="d2">un mueble con una superficie para escribir y generalmente cajones u otros compartimentos</data>
+  <data key="d3">he dejado el reloj encima de la mesa</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="cita">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">me han dado cita para pagar el recibo el martes</data>
+  <data key="d2">un estado de cuenta detallado del dinero adeudado por bienes enviados o servicios prestados</data>
+  <data key="d3">me han dado cita para pagar el recibo el martes</data>
+  <data key="d7">Tuesday no se</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="factura">
+  <data key="d5">me han dado cita para pagar el recibo el martes</data>
+  <data key="d6">un estado de cuenta detallado del dinero adeudado por bienes enviados o servicios prestados</data>
+</node>
+<node id="martes"/>
+<node id="copiador"/>
+<node id="bateria"/>
+<node id="electricidad"/>
+<node id="encendido"/>
+<node id="tinta"/>
+<node id="papel"/>
+<node id="boton"/>
+<node id="fotocopias"/>
+<node id="Lussy">
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<edge source="negocio" target="lugar">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="negocio" target="despues">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="negocio" target="proyecto">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="negocio" target="regalo">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="negocio" target="oficina">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="negocio" target="trabajo">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="negocio" target="compra">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="negocio" target="supermercado">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="negocio" target="documentos">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="negocio" target="lapiz">
+  <data key="d8">2</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="negocio" target="mesa">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="negocio" target="reloj">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="negocio" target="cita">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="negocio" target="factura">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="negocio" target="copiador"/>
+<edge source="negocio" target="Lussy">
+  <data key="d8">0</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="proyecto" target="regalo">
+  <data key="d8">0</data>
+</edge>
+<edge source="oficina" target="trabajo">
+  <data key="d8">0</data>
+</edge>
+<edge source="compra" target="supermercado">
+  <data key="d8">0</data>
+</edge>
+<edge source="lapiz" target="mesa">
+  <data key="d8">0</data>
+</edge>
+<edge source="lapiz" target="presentacion">
+  <data key="d8">0</data>
+</edge>
+<edge source="reloj" target="mesa">
+  <data key="d8">0</data>
+</edge>
+<edge source="cita" target="factura">
+  <data key="d8">0</data>
+</edge>
+<edge source="cita" target="martes">
+  <data key="d8">0</data>
+</edge>
+<edge source="copiador" target="bateria"/>
+<edge source="copiador" target="electricidad"/>
+<edge source="bateria" target="encendido"/>
+<edge source="electricidad" target="encendido"/>
+<edge source="encendido" target="tinta"/>
+<edge source="tinta" target="papel"/>
+<edge source="papel" target="boton"/>
+<edge source="boton" target="fotocopias"/>
+</graph></graphml>

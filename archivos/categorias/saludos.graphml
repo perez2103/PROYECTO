@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d10" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d9" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d8" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d7" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="saludos"/>
+<node id="amigo">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">un amigo quiere conocerte</data>
+  <data key="d2">un grito o grito de aprobación</data>
+  <data key="d3">un amigo quiere conocerte</data>
+  <data key="d4">hoy he comido en casa de un amigo</data>
+  <data key="d5">una persona que conoces bien y que miras con cariño y confianza</data>
+</node>
+<node id="amor">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he escrito un poema de amor</data>
+  <data key="d2">una composición escrita en pies métricos formando líneas rítmicas</data>
+  <data key="d3">he escrito un poema de amor</data>
+  <data key="d6">Lo que dices parece muy interesante</data>
+</node>
+<node id="poema">
+  <data key="d4">he escrito un poema de amor</data>
+  <data key="d5">una composición escrita en pies métricos formando líneas rítmicas</data>
+</node>
+<node id="hola">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Hola Lussy, ya tenía ganas de hablar contigo</data>
+  <data key="d2">lussy</data>
+  <data key="d3">Hola Lussy, ya tenía ganas de hablar contigo</data>
+  <data key="d7">Hello hola</data>
+  <data key="d4">hola hola caracola ¿como estas Lussy?</data>
+  <data key="d5">Hello there</data>
+</node>
+<node id="hoy dia">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">hoy he comido en casa de un amigo</data>
+  <data key="d2">una persona que conoces bien y que miras con cariño y confianza</data>
+  <data key="d3">hoy he comido en casa de un amigo</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">buenos dias como estas hoy</data>
+  <data key="d5">el tiempo actual o la edad</data>
+</node>
+<node id="casa">
+  <data key="d4">hoy he comido en casa de mi madre</data>
+  <data key="d5">donde vives en un momento particular</data>
+</node>
+<node id="hoy">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">hoy he comido en casa de mi madre</data>
+  <data key="d2">donde vives en un momento particular</data>
+  <data key="d3">hoy he comido en casa de mi madre</data>
+  <data key="d7"> no se</data>
+  <data key="d6">Lo que dices parece muy interesante</data>
+</node>
+<node id="madre"/>
+<node id="mañana">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">buenos dias como estas hoy</data>
+  <data key="d2">el tiempo actual o la edad</data>
+  <data key="d3">buenos dias como estas hoy</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d6">Lo que dices parece muy interesante</data>
+</node>
+<node id="lussy">
+  <data key="d4">Hola Lussy, ya tenía ganas de hablar contigo</data>
+  <data key="d5">lussy</data>
+</node>
+<node id="concha">
+  <data key="d4">no se muy bien que significa lo que dices, me esforzaré en deducirlo</data>
+  <data key="d5">munición consistente en una carcasa metálica cilíndrica que contiene una carga explosiva y un proyectil; </data>
+</node>
+<node id="Lussy">
+  <data key="d6">Lo que dices parece muy interesante</data>
+</node>
+<edge source="saludos" target="amigo">
+  <data key="d8">1</data>
+  <data key="d9">un amigo quiere conocerte</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="saludos" target="amor">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="saludos" target="poema">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="saludos" target="hola">
+  <data key="d8">3</data>
+  <data key="d9">Hola Lussy, ya tenía ganas de hablar contigo</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="saludos" target="hoy dia">
+  <data key="d8">1</data>
+  <data key="d9">hoy he comido en casa de un amigo</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="saludos" target="hoy">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="saludos" target="casa">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="saludos" target="mañana">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="saludos" target="lussy">
+  <data key="d8">1</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="saludos" target="concha">
+  <data key="d8">1</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="saludos" target="Lussy">
+  <data key="d8">0</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="amor" target="poema">
+  <data key="d8">0</data>
+</edge>
+<edge source="hola" target="lussy">
+  <data key="d8">3</data>
+</edge>
+<edge source="hola" target="concha">
+  <data key="d8">3</data>
+</edge>
+<edge source="hola" target="hola">
+  <data key="d8">3</data>
+</edge>
+<edge source="hoy dia" target="amigo">
+  <data key="d8">0</data>
+</edge>
+<edge source="hoy dia" target="casa">
+  <data key="d8">0</data>
+</edge>
+<edge source="hoy" target="casa">
+  <data key="d8">0</data>
+</edge>
+<edge source="hoy" target="madre">
+  <data key="d8">0</data>
+</edge>
+<edge source="mañana" target="hoy dia">
+  <data key="d8">0</data>
+</edge>
+</graph></graphml>

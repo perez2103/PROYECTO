@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="frase5" attr.type="string"/>
+<key id="d10" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d9" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d8" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d7" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="educacion"/>
+<node id="supermercado">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he estado comprando en el supermercado y he leido un libro</data>
+  <data key="d2">una obra escrita o composición que ha sido publicada (impresa en páginas encuadernadas)</data>
+  <data key="d3">he estado comprando en el supermercado y he leido un libro</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="libro">
+  <data key="d5">me han traido un regalo y un libro</data>
+  <data key="d6">una obra escrita o composición que ha sido publicada (impresa en páginas encuadernadas)</data>
+</node>
+<node id="regalo">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">me han traido un regalo y un libro</data>
+  <data key="d2">una obra escrita o composición que ha sido publicada (impresa en páginas encuadernadas)</data>
+  <data key="d3">me han traido un regalo y un libro</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="correr">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he salido a correr por la playa y luego he comprado libros</data>
+  <data key="d2">un área de arena que desciende hasta el agua de un mar o lago</data>
+  <data key="d3">he salido a correr por la playa y luego he comprado libros</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="playa">
+  <data key="d5">he salido a correr por la playa y luego he comprado libros</data>
+  <data key="d6">un área de arena que desciende hasta el agua de un mar o lago</data>
+</node>
+<node id="libros">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he leido libros interesantes</data>
+  <data key="d2">las actividades de educar o instruir; </data>
+  <data key="d3">he leido libros interesantes</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="ciencias">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Asimismo la &#13;
+      sciencia.</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="niño">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">el niño no quiere ir al colegio</data>
+  <data key="d2">una institución educativa</data>
+  <data key="d3">el niño no quiere ir al colegio</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="colegio">
+  <data key="d5">el niño no quiere ir al colegio</data>
+  <data key="d6">una institución educativa</data>
+  <data key="d4">Me gusta leer libros</data>
+</node>
+<node id="profesora"/>
+<node id="estudiante"/>
+<node id="Lussy">
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<edge source="educacion" target="supermercado">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="educacion" target="libro">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="educacion" target="regalo">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="educacion" target="correr">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="educacion" target="playa">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="educacion" target="ciencias">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="educacion" target="libros">
+  <data key="d8">1</data>
+  <data key="d9">he leido libros interesantes</data>
+</edge>
+<edge source="educacion" target="niño">
+  <data key="d8">1</data>
+  <data key="d9">el niño no quiere ir al colegio</data>
+</edge>
+<edge source="educacion" target="colegio">
+  <data key="d8">0</data>
+  <data key="d10">me gusta mucho leer</data>
+  <data key="d9">me gustaria ir al colegio</data>
+</edge>
+<edge source="educacion" target="profesora">
+  <data key="d8">0</data>
+</edge>
+<edge source="educacion" target="Lussy">
+  <data key="d8">0</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="supermercado" target="libro">
+  <data key="d8">0</data>
+</edge>
+<edge source="regalo" target="libro">
+  <data key="d8">0</data>
+</edge>
+<edge source="correr" target="playa">
+  <data key="d8">0</data>
+</edge>
+<edge source="correr" target="libros">
+  <data key="d8">0</data>
+</edge>
+<edge source="niño" target="colegio">
+  <data key="d8">0</data>
+</edge>
+<edge source="niño" target="libros">
+  <data key="d8">0</data>
+  <data key="d11">Al niño le gusta leer</data>
+</edge>
+<edge source="colegio" target="niño">
+  <data key="d8">0</data>
+  <data key="d11">Al niño no le gusta ir al colegio</data>
+</edge>
+<edge source="colegio" target="libros">
+  <data key="d8">0</data>
+  <data key="d11">En el colegio hay libros</data>
+</edge>
+<edge source="colegio" target="profesora">
+  <data key="d8">0</data>
+  <data key="d11">La profesora enseña a leer a los niños</data>
+</edge>
+<edge source="colegio" target="estudiante">
+  <data key="d8">0</data>
+</edge>
+</graph></graphml>

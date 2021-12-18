@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d12" for="edge" attr.name="frase5" attr.type="string"/>
+<key id="d11" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d10" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d9" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d8" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d7" for="node" attr.name="frase6" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="cine">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">me voy al cine con los amigos</data>
+  <data key="d2">una persona que conoces bien y que miras con cariño y confianza</data>
+  <data key="d3">me voy al cine con los amigos</data>
+  <data key="d4">Lussy mi asistente</data>
+  <data key="d5">me gusta mucho el cine, en especial las peliculas de ciencia ficcion</data>
+  <data key="d6">un medio que difunde imágenes en movimiento</data>
+</node>
+<node id="ciencias">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Avatar es una pelicula de ciencia ficcion</data>
+  <data key="d2">una obra literaria basada en la imaginación y no necesariamente en hechos</data>
+  <data key="d3">Avatar es una pelicula de ciencia ficcion</data>
+  <data key="d5">en la television hacen una pelicula de ciencia ficcion</data>
+  <data key="d6">una rama particular del conocimiento científico</data>
+</node>
+<node id="ficcion">
+  <data key="d5">Avatar es una pelicula de ciencia ficcion</data>
+  <data key="d6">una obra literaria basada en la imaginación y no necesariamente en hechos</data>
+</node>
+<node id="pelicula">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he visto la pelicula Terminator</data>
+  <data key="d2">un medio que difunde imágenes en movimiento</data>
+  <data key="d3">he visto la pelicula Terminator</data>
+  <data key="d5">ayer vi la pelicula de la vida de una cantante</data>
+  <data key="d6">una forma de entretenimiento que representa una historia mediante el sonido y una secuencia de imágenes que dan la ilusión de un movimiento continuo</data>
+  <data key="d7">me gusta mucho el cine, en especial las peliculas de ciencia ficcion</data>
+</node>
+<node id="amigos">
+  <data key="d5">me voy al cine con los amigos</data>
+  <data key="d6">una persona que conoces bien y que miras con cariño y confianza</data>
+</node>
+<node id="ridley">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">quiero ver la ultima pelicula de Riddly Scott</data>
+  <data key="d2">actor de cine estadounidense premiado (1928-1999)</data>
+  <data key="d3">quiero ver la ultima pelicula de Riddly Scott</data>
+  <data key="d8">Lo que dices parece muy interesante</data>
+</node>
+<node id="scott">
+  <data key="d5">quiero ver la ultima pelicula de Riddly Scott</data>
+  <data key="d6">actor de cine estadounidense premiado (1928-1999)</data>
+</node>
+<node id="terminator">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">he visto la pelicula Terminator</data>
+  <data key="d2">una forma de entretenimiento que representa una historia mediante el sonido y una secuencia de imágenes que dan la ilusión de un movimiento continuo</data>
+  <data key="d3">he visto la pelicula Terminator</data>
+  <data key="d4">Terminator un robot</data>
+  <data key="d8">Lo que dices parece muy interesante</data>
+</node>
+<node id="el dia de ayer">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">ayer vi la pelicula de la vida de una cantante</data>
+  <data key="d2">una forma de entretenimiento que representa una historia mediante el sonido y una secuencia de imágenes que dan la ilusión de un movimiento continuo</data>
+  <data key="d3">ayer vi la pelicula de la vida de una cantante</data>
+  <data key="d8">Lo que dices parece muy interesante</data>
+</node>
+<node id="vida"/>
+<node id="cantante"/>
+<node id="television">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">en la television hacen una pelicula de ciencia ficcion</data>
+  <data key="d2">una rama particular del conocimiento científico</data>
+  <data key="d3">en la television hacen una pelicula de ciencia ficcion</data>
+  <data key="d4">Lussy mi asistente</data>
+  <data key="d8">Lo que dices parece muy interesante</data>
+</node>
+<node id="tarde">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">esta tarde voy al cine con mi amigo Antonio a ver una pelicula de ciencia ficcion</data>
+  <data key="d2">un medio que difunde imágenes en movimiento</data>
+  <data key="d3">esta tarde voy al cine con mi amigo Antonio a ver una pelicula de ciencia ficcion</data>
+  <data key="d4">Antonio un buen amigo de la infancia</data>
+  <data key="d8">Lo que dices parece muy interesante</data>
+</node>
+<node id="amigo"/>
+<node id="antonio"/>
+<node id="mañana">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">mañana voy al cine a ver Dune con mis amigos</data>
+  <data key="d2">un medio que difunde imágenes en movimiento</data>
+  <data key="d3">mañana voy al cine a ver Dune con mis amigos</data>
+  <data key="d4">Dune es una pelicula de ciencia ficcion</data>
+  <data key="d8">Lo que dices parece muy interesante</data>
+</node>
+<node id="duna"/>
+<node id="avatar">
+  <data key="d0">me gusto mucho la pelicula terminator</data>
+</node>
+<node id="Lussy">
+  <data key="d8">Lo que dices parece muy interesante</data>
+</node>
+<edge source="cine" target="cine">
+  <data key="d9">1</data>
+  <data key="d10">me voy al cine con los amigos</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="cine" target="ciencias">
+  <data key="d9">2</data>
+  <data key="d10">Avatar es una pelicula de ciencia ficcion</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="cine" target="ficcion">
+  <data key="d9">0</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="cine" target="pelicula">
+  <data key="d9">1</data>
+  <data key="d10">he visto la pelicula Terminator</data>
+  <data key="d11">me gustan las peliculas de ciencia ficcion</data>
+</edge>
+<edge source="cine" target="amigos">
+  <data key="d9">0</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="cine" target="ridley">
+  <data key="d9">1</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="cine" target="scott">
+  <data key="d9">0</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="cine" target="terminator">
+  <data key="d9">7</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="cine" target="el dia de ayer">
+  <data key="d9">1</data>
+  <data key="d10">ayer vi la pelicula de la vida de una cantante</data>
+</edge>
+<edge source="cine" target="television">
+  <data key="d9">1</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="cine" target="tarde">
+  <data key="d9">1</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="cine" target="mañana">
+  <data key="d9">1</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="cine" target="avatar">
+  <data key="d9">0</data>
+  <data key="d10">me gusto mucho la pelicula terminator</data>
+</edge>
+<edge source="cine" target="Lussy">
+  <data key="d9">0</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="ciencias" target="ficcion">
+  <data key="d9">0</data>
+</edge>
+<edge source="ciencias" target="pelicula">
+  <data key="d9">0</data>
+</edge>
+<edge source="pelicula" target="amigos">
+  <data key="d9">0</data>
+</edge>
+<edge source="pelicula" target="ficcion">
+  <data key="d9">0</data>
+</edge>
+<edge source="ridley" target="scott">
+  <data key="d9">0</data>
+</edge>
+<edge source="ridley" target="pelicula">
+  <data key="d9">0</data>
+</edge>
+<edge source="terminator" target="ciencias">
+  <data key="d9">0</data>
+</edge>
+<edge source="terminator" target="ficcion">
+  <data key="d9">0</data>
+</edge>
+<edge source="terminator" target="pelicula">
+  <data key="d9">0</data>
+</edge>
+<edge source="el dia de ayer" target="pelicula">
+  <data key="d9">0</data>
+</edge>
+<edge source="el dia de ayer" target="vida">
+  <data key="d9">0</data>
+</edge>
+<edge source="el dia de ayer" target="cine">
+  <data key="d9">3</data>
+  <data key="d10">ayer fui al cine con mis amigos</data>
+</edge>
+<edge source="el dia de ayer" target="amigos">
+  <data key="d9">0</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="television" target="ciencias">
+  <data key="d9">0</data>
+</edge>
+<edge source="television" target="ficcion">
+  <data key="d9">0</data>
+</edge>
+<edge source="tarde" target="cine">
+  <data key="d9">0</data>
+</edge>
+<edge source="tarde" target="amigo">
+  <data key="d9">0</data>
+</edge>
+<edge source="mañana" target="cine">
+  <data key="d9">0</data>
+</edge>
+<edge source="mañana" target="duna">
+  <data key="d9">0</data>
+</edge>
+<edge source="avatar" target="pelicula">
+  <data key="d9">0</data>
+  <data key="d12">me gustan las peliculas de ciencia ficcion</data>
+</edge>
+</graph></graphml>

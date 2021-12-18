@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="frase5" attr.type="string"/>
+<key id="d6" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d5" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d4" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d3" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="politica"/>
+<node id="habla">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Discurso de apertura en la I Sesión Plenaria de la Conferencia Consultiva &#13;
+    Política del Pueblo Chino (21 de septiembre de 1949).</data>
+  <data key="d2">Lo que dices parece muy interesante</data>
+</node>
+<node id="primero">
+  <data key="d3">Discurso de apertura en la I Sesión Plenaria de la Conferencia Consultiva &#13;
+    Política del Pueblo Chino (21 de septiembre de 1949).</data>
+</node>
+<node id="plenario"/>
+<node id="sesion"/>
+<node id="de consultacion"/>
+<node id="conferencia"/>
+<node id="elecciones">
+  <data key="d2">Creo que es importante votar</data>
+</node>
+<node id="voto"/>
+<node id="propaganda"/>
+<node id="politico"/>
+<node id="parlamento"/>
+<edge source="politica" target="habla">
+  <data key="d4">1</data>
+  <data key="d5">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="politica" target="primero">
+  <data key="d4">0</data>
+  <data key="d6">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="politica" target="elecciones">
+  <data key="d4">0</data>
+  <data key="d5">Creo que es importante votar</data>
+  <data key="d6">Creo que es importante votar</data>
+</edge>
+<edge source="politica" target="politico">
+  <data key="d4">0</data>
+</edge>
+<edge source="habla" target="primero">
+  <data key="d4">0</data>
+</edge>
+<edge source="habla" target="plenario">
+  <data key="d4">0</data>
+</edge>
+<edge source="elecciones" target="voto">
+  <data key="d4">0</data>
+  <data key="d7">Creo que es importante votar</data>
+</edge>
+<edge source="elecciones" target="propaganda">
+  <data key="d4">0</data>
+  <data key="d7">Me han enviado mucha propaganda electoral</data>
+</edge>
+<edge source="elecciones" target="politico">
+  <data key="d4">0</data>
+  <data key="d7">Creo que es importante votar</data>
+</edge>
+<edge source="elecciones" target="parlamento">
+  <data key="d4">0</data>
+</edge>
+<edge source="voto" target="propaganda">
+  <data key="d4">0</data>
+  <data key="d7">Me han enviado mucha propaganda electoral</data>
+</edge>
+</graph></graphml>

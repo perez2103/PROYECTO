@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="frase5" attr.type="string"/>
+<key id="d10" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d9" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d8" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d7" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="paises"/>
+<node id="intento">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Por lo cual, todo intento de representar &#13;
+positivamente y de un modo directo el cuadro completo de su modo de pensar &#13;
+tiene que reemplazarse por la tarea, más modesta, pero única asequible, de &#13;
+tratar de averiguar cuáles pudieron ser algunas de las dimensiones de su &#13;
+obra que hayan podido dar lugar a la reflexión de Platón y Aristóteles.</data>
+  <data key="d2">un cuerpo de personas políticamente organizado bajo un solo gobierno</data>
+  <data key="d3">Por lo cual, todo intento de representar &#13;
+positivamente y de un modo directo el cuadro completo de su modo de pensar &#13;
+tiene que reemplazarse por la tarea, más modesta, pero única asequible, de &#13;
+tratar de averiguar cuáles pudieron ser algunas de las dimensiones de su &#13;
+obra que hayan podido dar lugar a la reflexión de Platón y Aristóteles.</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="contemporaneos">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">Sus contemporáneos mismos &#13;
+debieron sentir la acción y la palabra del Sabio como un despertar a un &#13;
+mundo nuevo por el asombro.</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="otoño">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">en otoño llueve y caen las hojas de los arboles</data>
+  <data key="d2">el principal órgano de fotosíntesis y transpiración en plantas superiores</data>
+  <data key="d3">en otoño llueve y caen las hojas de los arboles</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="sale de">
+  <data key="d5">en otoño llueve y caen las hojas de los arboles</data>
+  <data key="d6">el principal órgano de fotosíntesis y transpiración en plantas superiores</data>
+</node>
+<node id="arboles"/>
+<node id="revista"/>
+<node id="inteligencia">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">estoy trabajando en mi proyecto de inteligencia artificial</data>
+  <data key="d2">un documento que ordena el pago de dinero; </data>
+  <data key="d3">estoy trabajando en mi proyecto de inteligencia artificial</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="progreso">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">estoy avanzando en mi proyecto sobre la mente artificial</data>
+  <data key="d2">un documento que ordena el pago de dinero; </data>
+  <data key="d3">estoy avanzando en mi proyecto sobre la mente artificial</data>
+  <data key="d7">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="proyecto">
+  <data key="d5">estoy trabajando en mi proyecto de inteligencia artificial</data>
+  <data key="d6">un documento que ordena el pago de dinero; </data>
+</node>
+<node id="mente"/>
+<node id="Alemania">
+  <data key="d4">Me gusta Alemania</data>
+</node>
+<node id="Francia"/>
+<node id="Belgica"/>
+<node id="Rusia"/>
+<node id="Austria"/>
+<node id="Lussy">
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<edge source="paises" target="intento">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="paises" target="contemporaneos">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="paises" target="otoño">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="paises" target="sale de">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="paises" target="progreso">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="paises" target="proyecto">
+  <data key="d8">0</data>
+  <data key="d10">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="paises" target="inteligencia">
+  <data key="d8">1</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="paises" target="Alemania">
+  <data key="d8">0</data>
+  <data key="d9">me gusta Alemania</data>
+  <data key="d10">me gusta mucho Rusia</data>
+</edge>
+<edge source="paises" target="Belgica">
+  <data key="d8">0</data>
+</edge>
+<edge source="paises" target="Lussy">
+  <data key="d8">0</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="otoño" target="sale de">
+  <data key="d8">0</data>
+</edge>
+<edge source="otoño" target="arboles">
+  <data key="d8">0</data>
+</edge>
+<edge source="revista" target="inteligencia">
+  <data key="d8">1</data>
+  <data key="d9">he leido una revista sobre inteligencia artificial</data>
+</edge>
+<edge source="revista" target="Lussy">
+  <data key="d8">0</data>
+  <data key="d9">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="inteligencia" target="proyecto">
+  <data key="d8">0</data>
+</edge>
+<edge source="progreso" target="proyecto">
+  <data key="d8">0</data>
+</edge>
+<edge source="progreso" target="mente">
+  <data key="d8">0</data>
+</edge>
+<edge source="Alemania" target="Francia">
+  <data key="d8">0</data>
+  <data key="d11">me gusta Francia</data>
+</edge>
+<edge source="Alemania" target="Belgica">
+  <data key="d8">0</data>
+  <data key="d11">me gusta Belgica</data>
+</edge>
+<edge source="Alemania" target="Rusia">
+  <data key="d8">0</data>
+  <data key="d11">me gusta Rusia</data>
+</edge>
+<edge source="Alemania" target="Austria">
+  <data key="d8">0</data>
+</edge>
+<edge source="Francia" target="Belgica">
+  <data key="d8">0</data>
+  <data key="d11">me gusta Belgica</data>
+</edge>
+</graph></graphml>

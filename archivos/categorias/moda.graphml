@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d11" for="edge" attr.name="frase2" attr.type="string"/>
+<key id="d10" for="edge" attr.name="frase1" attr.type="string"/>
+<key id="d9" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d8" for="node" attr.name="&lt;class 'list'&gt;" attr.type="string"/>
+<key id="d7" for="node" attr.name="frase5" attr.type="string"/>
+<key id="d6" for="node" attr.name="frase3_4" attr.type="string"/>
+<key id="d5" for="node" attr.name="frase4" attr.type="string"/>
+<key id="d4" for="node" attr.name="frase1" attr.type="string"/>
+<key id="d3" for="node" attr.name="frase3_3" attr.type="string"/>
+<key id="d2" for="node" attr.name="frase3_2" attr.type="string"/>
+<key id="d1" for="node" attr.name="frase3_1" attr.type="string"/>
+<key id="d0" for="node" attr.name="frase3" attr.type="string"/>
+<graph edgedefault="directed"><node id="moda"/>
+<node id="azul">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">azul</data>
+  <data key="d2">cómo se hace algo o cómo sucede</data>
+  <data key="d3">azul</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="ridley">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">ridley desto &#13;
+      la felicidad de &#13;
+      perfetas, y también por las virtudes, como de los dioses o de &#13;
+aguntas comunes como entre los que dichanes &#13;
+      su propria virtud alcanza parece de fortuna, en cuanto a la cosa discretamente de &#13;
+      reprior los ajeros y las más divinas los acepos de ellas, la salud en &#13;
+ellas de ellas, a la moteria de las impresiones fuscar las cosas y entendemos en las cosas el &#13;
+      ejercicios mismos consisten en los afectos y casi su primera dimensión de realida</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="desto">
+  <data key="d5">ridley desto &#13;
+      la felicidad de &#13;
+      perfetas, y también por las virtudes, como de los dioses o de &#13;
+aguntas comunes como entre los que dichanes &#13;
+      su propria virtud alcanza parece de fortuna, en cuanto a la cosa discretamente de &#13;
+      reprior los ajeros y las más divinas los acepos de ellas, la salud en &#13;
+ellas de ellas, a la moteria de las impresiones fuscar las cosas y entendemos en las cosas el &#13;
+      ejercicios mismos consisten en los afectos y casi su primera dimensión de realida</data>
+</node>
+<node id="falda">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">me he comprado una falda y un sombrero</data>
+  <data key="d2">tocado que protege la cabeza del mal tiempo; </data>
+  <data key="d3">me he comprado una falda y un sombrero</data>
+  <data key="d6">Lussy mi asistente</data>
+  <data key="d5">me he comprado una camisa y una falda</data>
+  <data key="d7">revestimiento de tela que forma parte de una prenda por debajo de la cintura</data>
+</node>
+<node id="zapatos">
+  <data key="d5">me he comprado una falda y unos zapatos</data>
+  <data key="d7">una situación particular</data>
+</node>
+<node id="sombrero">
+  <data key="d5">me he comprado una falda y un sombrero</data>
+  <data key="d7">tocado que protege la cabeza del mal tiempo; </data>
+</node>
+<node id="camisa">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d1">me he comprado una camisa y unos pantalones vaqueros</data>
+  <data key="d2">calzoncillos usados ​​por mujeres</data>
+  <data key="d3">me he comprado una camisa y unos pantalones vaqueros</data>
+  <data key="d6">Lussy mi asistente</data>
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<node id="pantalones">
+  <data key="d5">me he comprado una camisa y unos pantalones vaqueros</data>
+  <data key="d7">calzoncillos usados ​​por mujeres</data>
+</node>
+<node id="los paises"/>
+<node id="parte">
+  <data key="d0">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+  <data key="d8">una mujer que se ha casado recientemente</data>
+</node>
+<node id="lechuza">
+  <data key="d5">no se muy bien que significa lo que dices, me esforzaré en deducirlo</data>
+  <data key="d7">una mujer que se ha casado recientemente</data>
+</node>
+<node id="mes"/>
+<node id="novia"/>
+<node id="Lussy">
+  <data key="d4">Lo que dices parece muy interesante</data>
+</node>
+<edge source="moda" target="azul">
+  <data key="d9">1</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="moda" target="ridley">
+  <data key="d9">1</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="moda" target="desto">
+  <data key="d9">0</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="moda" target="falda">
+  <data key="d9">2</data>
+  <data key="d10">me he comprado una falda y un sombrero</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="moda" target="zapatos">
+  <data key="d9">0</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="moda" target="sombrero">
+  <data key="d9">0</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="moda" target="camisa">
+  <data key="d9">2</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="moda" target="pantalones">
+  <data key="d9">0</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="moda" target="Lussy">
+  <data key="d9">0</data>
+  <data key="d10">Lo que dices parece muy interesante</data>
+</edge>
+<edge source="ridley" target="desto">
+  <data key="d9">0</data>
+</edge>
+<edge source="falda" target="zapatos">
+  <data key="d9">0</data>
+</edge>
+<edge source="falda" target="sombrero">
+  <data key="d9">0</data>
+</edge>
+<edge source="camisa" target="falda">
+  <data key="d9">0</data>
+</edge>
+<edge source="camisa" target="pantalones">
+  <data key="d9">0</data>
+</edge>
+<edge source="los paises" target="parte">
+  <data key="d9">1</data>
+  <data key="d10">Sutcliffe por su parte, permaneció en Hamburgo con su novia alemana, Astrid Kirchherr, durante otro mes.</data>
+</edge>
+<edge source="los paises" target="novia">
+  <data key="d9">3</data>
+  <data key="d11">no se muy bien que significa lo que dices, intentaré deducirlo</data>
+</edge>
+<edge source="parte" target="novia">
+  <data key="d9">4</data>
+</edge>
+</graph></graphml>
